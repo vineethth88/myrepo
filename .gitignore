@@ -2,3 +2,5 @@
 *.net
 
 !firth.net
+
+[aeiou}*.txt
